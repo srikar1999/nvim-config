@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='C:\Users\smalyala'
+let g:netrw_dirhist_6='C:/Users/smalyala/AppData/Local/nvim/vimrcs'
+let g:netrw_dirhist_5='C:/Users/smalyala/AppData/Local/nvim'
+let g:netrw_dirhist_4='C:/Users/smalyala/AppData/Local'
+let g:netrw_dirhist_3='C:/Users/smalyala/AppData'
+let g:netrw_dirhist_2='C:\Users\smalyala'
+let g:netrw_dirhist_1='C:\Users\smalyala\wxcc-load'
+let g:netrw_dirhist_0='C:\Users\smalyala'
+let g:netrw_dirhist_9='/home/techcet/.config/nvim'
+let g:netrw_dirhist_8='/home/techcet/code/spotrix'
